@@ -7,6 +7,9 @@ Data recorded from EXG-Bio Amp pill from Upside-Down Labs, using 3 electrodes(fo
 
 Run the jupyter files to perform data loading, data transformation, feature extraction, model training, and evaluation.
 
+## GUI
+<img src ="https://github.com/ssandra102/EEG-Classification/blob/6e3e7f0ce9210e7f15a75c8b636ea926ddd33784/images/prediction_GUI.png" width="300" height="350">
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
